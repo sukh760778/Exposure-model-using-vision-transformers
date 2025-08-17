@@ -1,2 +1,2 @@
 # Exposure-model-using-Transformers
-Codes to fine tune ViT Model for building image processing and classification
+This repository contains the code to process the images and train models for building a classification using Google Street View images and Vision Transformers.
