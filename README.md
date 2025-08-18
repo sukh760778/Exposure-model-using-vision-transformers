@@ -6,8 +6,6 @@ This repository contains the code to process the images and train models for bui
 
 **Code/:** Jupyter notebooks for data processing and Model training.
 
-**Model/:** Weights of the best-trained model to classify the images.
-
 ## Different classes of buildings which the present model classifies:
 
 | ![Image 1](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg) | ![Image 2](https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Metal_Sheet/102.jpg) |
