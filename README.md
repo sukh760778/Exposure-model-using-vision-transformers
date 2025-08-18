@@ -8,7 +8,7 @@ This repository contains the code to process the images and train models for bui
 
 ## Different classes of buildings which the present model classifies:
 
-| <img src="Data/AD_H1/31.17974255_76.98402971__5162-3.jpg" width="200"> | <img src="Data/AD_H2/32.08976642_76.26028531_3772__1486-1.jpg.jpg" width="200"> | <img src="Data/Metal_H1/32.08135595_76.51561859_4761__4463-1.jpg" width="200"> | <img src="Data/MR_H1 flat roof/31.85421645_77.16625737_6716__10090-1.jpg" width="200"> |<img src="Data/MR_H1 gable roof/31.12432203_76.92413869__3320-1.jpg" width="200"> |
+| <img src="Data/AD_H1/31.17974255_76.98402971__5162-3.jpg" width="200"> | <img src="Data/AD_H2/32.08335763_76.22389352_549__1452-1.jpg" width="200"> | <img src="Data/Metal_H1/32.08135595_76.51561859_4761__4463-1.jpg" width="200"> | <img src="Data/MR_H1 flat roof/31.85421645_77.16625737_6716__10090-1.jpg" width="200"> |<img src="Data/MR_H1 gable roof/31.12432203_76.92413869__3320-1.jpg" width="200"> |
 |--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
 | **AD_H1** | **AD_H2** | **Metal_H1** | **MR_H1 flat roof** | **MR_H1 gable roof** |
 | <img src="Data/MR_H2 flat roof/31.82903396_77.17274952_4328__3335-1.jpg" width="200"> | <img src="Data/MR_H2 gable roof/31.92474985_77.11545576_712__24-1.jpg" width="200"> | <img src="Data/MR_H3/32.10104630_76.27739419_4572__4499-2.jpg" width="200"> | <img src="Data/NON_Building/31.11646521_76.89527842__4607-1.jpg" width="200"> |<img src="Data/RCC_H1 flat roof/360_33.jpg__215-1.jpg.jpg.jpg" width="200"> |
