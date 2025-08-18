@@ -10,14 +10,14 @@ This repository contains the code to process the images and train models for bui
 
 | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Metal_Sheet/102.jpg" width="200"> |
 |--------------------------------|--------------------------------|
-| **RCC**                 | **Metal Sheet**                 |
-| <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |
-| **Assam Type (Ikra)**   | **Non Buildings**                |
-| <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/RCC/103.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Metal_Sheet/102.jpg" width="200"> |
+| **RCC**                 | **Metal Sheet**                 | **RCC**                 | **Metal Sheet**                 |
+| <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |<img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |
 |--------------------------------|--------------------------------|
-| **RCC**                 | **Metal Sheet**                 |
-| <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |
-| **Assam Type (Ikra)**   | **Non Buildings**                |
+| **RCC**                 | **Metal Sheet**                 | **RCC**                 | **Metal Sheet**                 |
+| <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |<img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |
+|--------------------------------|--------------------------------|
+| **RCC**                 | **Metal Sheet**                 | **RCC**                 | **Metal Sheet**                 |
+| <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |<img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Assam_Type/121.jpg" width="200"> | <img src="https://raw.githubusercontent.com/sukh760778/Building_classification_NE_India/main/Data/Vacant/103.jpg" width="200"> |
 
 
 
