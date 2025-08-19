@@ -1,12 +1,19 @@
 # Exposure-model-using-Transformers
-This repository contains the code to process the images and train models for building a classification using Google Street View images and Vision Transformers.
+## Note: This repository shares the data for the study "Developing Building Exposure Models Using Computer Vision and Deep Learning" (Under Review).
+### Authors
+1. Sukh Sagar Shukla
+2. Amit Bhatiya
+3. J Dhanya
+4. Saman Ghaffarian
+5. Roberto Gentile
+   
 ## Repository Content
 
-**Data/:** Contains representative GSV image data for each class used to train the models.
+**Data/:** Contains representative GSV image data for each class used to train the models for the study.
 
 **Code/:** Jupyter notebooks for data processing and Model training.
 
-## Different classes of buildings which the present model classifies:
+## Different classes of buildings which the present study has considered:
 
 | <img src="Data/AD_H1/31.17974255_76.98402971__5162-3.jpg" width="200"> | <img src="Data/AD_H2/32.08335763_76.22389352_549__1452-1.jpg" width="200"> | <img src="Data/Metal_H1/32.08135595_76.51561859_4761__4463-1.jpg" width="200"> | <img src="Data/MR_H1 flat roof/31.85421645_77.16625737_6716__10090-1.jpg" width="200"> |<img src="Data/MR_H1 gable roof/31.12432203_76.92413869__3320-1.jpg" width="200"> |
 |--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
@@ -20,11 +27,4 @@ This repository contains the code to process the images and train models for bui
 | <img src="Data/RCC_OS_H2/31.11997639_76.90184327__4858-1.jpg" width="200"> | <img src="Data/RCC_OS_H3/31.14704621_76.93679684__353-1.jpg" width="200"> | <img src="Data/RCC_OS_H4/31.94889373_77.10877979_528__1283-3.jpg" width="200"> | <img src="Data/Timber/31.96801360_77.11906699_690__2796-1.jpg" width="200"> |
 | **RCC_OS_H2** | **RCC_OS_H3** | **RCC_OS_H4** | **Timber** | 
 
-#### Note: This repository shares the data for the study "Machine Learning-based Rapid Building Classification Using Street View Images and Subsequent Risk Assessment" (Under Review).
 
-### Authors
-1. Sukh Sagar Shukla
-2. Amit Bhatiya
-3. J Dhanya
-4. Saman Ghaffarian
-5. Roberto Gentile
