@@ -2,7 +2,7 @@
 ## Note: This repository shares the data for the study "Developing Building Exposure Models Using Computer Vision and Deep Learning" (Under Review).
 ### Authors
 1. Sukh Sagar Shukla
-2. Amit Bhatiya
+2. Amit Bhatia
 3. J Dhanya
 4. Saman Ghaffarian
 5. Roberto Gentile
