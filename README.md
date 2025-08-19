@@ -9,7 +9,7 @@
    
 ## Repository Content
 
-**Data/:** Contains representative GSV image data for each class used to train the models for the study.
+**Data/:** Contains representative image data for each class used to train the models for the study.
 
 **Code/:** Jupyter notebooks for data processing and Model training.
 
