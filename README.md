@@ -13,6 +13,8 @@
 
 **Code/:** Jupyter notebooks for data processing and Model training.
 
+**best_model.pth/:** Trained BEiT model for building classification.
+
 ## Different classes of buildings which the present study has considered:
 
 | <img src="Data/AD_H1/31.17974255_76.98402971__5162-3.jpg" width="200"> | <img src="Data/AD_H2/32.08335763_76.22389352_549__1452-1.jpg" width="200"> | <img src="Data/Metal_H1/32.08135595_76.51561859_4761__4463-1.jpg" width="200"> | <img src="Data/MR_H1 flat roof/31.85421645_77.16625737_6716__10090-1.jpg" width="200"> |<img src="Data/MR_H1 gable roof/31.12432203_76.92413869__3320-1.jpg" width="200"> |
